@@ -6,9 +6,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
+npm start
 Each component in components folder is an example of a react...if you want to run a particular component uncomment that component in App.js file...
