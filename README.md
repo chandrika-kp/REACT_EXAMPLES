@@ -7,4 +7,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 npm start
-Each component in components folder is an example of a react...if you want to run a particular component uncomment that component in App.js file...
+
+----------------------------------------------
+## Run paricular React Example
+
+I have a React project where each component in the components folder represents a different example, and you want to run a particular component, you can follow these steps:
+
+Open the App.js file in your project. This file likely contains the main structure of your React application.
+
+Uncomment both the particular component and the import statements at the top of App.js where components are imported.
