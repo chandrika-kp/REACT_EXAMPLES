@@ -1,6 +1,6 @@
 import './App.css';
-import Counter from './components/Counter';
-import TodoList from './components/TodoList/TodoList';
+// import Counter from './components/Counter';
+import TodoList from './components/TodoList';
 
 function App() {
   return (
